@@ -1,0 +1,8 @@
+diccionario= {'nombre':['Pablo', ' Andrés', ' Javiera', ' Karin'], 'apellido':['Farias',' Roman',' Lufí',' Orellana'], 'notapro':[6.0, 5.0, 7.0, 4.0], 'notafis':[5.7, 6.4, 4.4, 5.9]}
+
+print (diccionario['nombre'][2])
+print (diccionario['apellido'][2])
+print (diccionario['notapro'][2]) #notas de programación#
+print (diccionario['notafis'][2]) #notas de fisica#
+
+
